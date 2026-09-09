@@ -1,4 +1,4 @@
 # Event calendar 
-- Name: Study group
-- Place: Library
+- Name: Tahlil Salman 
+- Place: In class
 - Time: 
